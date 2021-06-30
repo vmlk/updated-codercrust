@@ -427,8 +427,8 @@ wrapper1{
 
 .grid-container div a:hover{ 
   text-decoration: underline;
-  background: black;
-  color: white;
+  background: white;
+  color: black;
 }
 
 .grid-container > div {
@@ -462,12 +462,12 @@ wrapper1{
 
 .grid-containerarray div a:hover{ 
   text-decoration: underline;
-  background: black;
-  color: white;
+  background: white;
+  color: black;
 }
 
 .grid-containerarray > div {
-  background-color: black;
+  background-color: white;
   border: none;
   text-align: left;
   font-size: 30px;
