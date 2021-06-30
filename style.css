@@ -395,12 +395,12 @@ wrapper1{
 	margin-left: 250px;
 	margin-right: 250px;
 	margin-top: 20px;
-	background: black;
+	background: white;
 	text-align: center;
 	font-family: consolas;
 	font-weight: bold;
 	font-size: 25px;
-	color: #fff;
+	color: blue;
 	text-decoration-line: underline;
 	
 }
@@ -412,7 +412,7 @@ wrapper1{
  
 
 .wholefile{
-	background: black;
+	background: white;
 }
 .class_h6{
 	color: white;
