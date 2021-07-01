@@ -564,7 +564,7 @@ wrapper1{
 /*Css of prev and next button*/
 
 #prev1{
-  color: black;
+  color: blue;
   font-weight: bold;
   outline: solid 1px;
   outline-color: white; 
@@ -583,7 +583,7 @@ wrapper1{
  
 
 #next1{
-  color: black;
+  color: blue;
   text-align: right;
   font-weight: bold;
   outline: solid 1px;
