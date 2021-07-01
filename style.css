@@ -448,15 +448,15 @@ wrapper1{
 /*Array data structure page html file*/
 
 .rcpb{
- color: black;
+ color: white;
 }
 
 .def1{
-	color: #A5A5A5;
+	color: white;
 	font-size: 14px;
 }
-.arrayimg{
-	width: 950px;
+.img{
+	width: 970px;
 }
 
 .grid-containerarray div a{ 
