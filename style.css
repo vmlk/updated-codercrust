@@ -334,7 +334,7 @@ button:hover {
 /* This css is for front page content after headline */
 
 wrapper1{
-	width: 860px;
+	/*width: 860px;*/
 	margin: 0 auto;
 }
 .wrapper1 ul{
