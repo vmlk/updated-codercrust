@@ -123,6 +123,8 @@ color:green;
 			 hashing can work well. Under reasonable assumptions, 
 			 the average time required to search for an element in a hash table is O(1).
 		 </p>
+	         <img class="arrayimg" src="hashtable.jpg">
+	  <br><br>
 		 <p class="def1"><b><u>Collision</u></b><br><br>
 		     collision is a situation that occurs while using hashing . 
 			 The situation where a newly inserted key maps to an already
@@ -139,18 +141,21 @@ color:green;
 			 array is examined (starting with the hashed index). If the slot at the hashed index is unoccupied,
 			 then the entry record is inserted in slot at the hashed index else it proceeds in some probe sequence
 			 until it finds an unoccupied slot.<br><br>
+			 <img class="arrayimg" src="lp.jpeg"><br><br>
 			 <b>Seperate chaining</b><br>
 			    Separate chaining is one of the most commonly used collision resolution techniques. 
 				It is usually implemented using linked lists. In separate chaining, each element of
 				the hash table is a linked list. To store an element in the hash table you must insert
 				it into a specific linked list. If there is any collision (i.e. two different elements 
 				have same hash value) then store both the elements in the same linked list.<br><br>
+			    <img class="arrayimg" src="sc.jpeg"><br><br>
 				<b>Quadratic Probing</b><br>
 				uadratic probing is similar to linear probing and the only difference is the interval
 				between successive probes or entry slots. Here, when the slot at a hashed index for an
 				entry record is already occupied, you must start traversing until you find an unoccupied slot.
 				The interval between slots is computed by adding the successive value of an arbitrary polynomial 
 				in the original hashed index.<br><br>
+			 <img class="arrayimg" src="qp.jpeg"><br><br>
 		 </p>
 		 
 		
