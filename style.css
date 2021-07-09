@@ -593,6 +593,12 @@ wrapper1{
 
 /*Css of prev and next button end*/
 
+#idhai{
+ margin-top: 0px;
+ color: green;
+}
+
+
 @media only screen and (max-width: 450px){	
 }
 
